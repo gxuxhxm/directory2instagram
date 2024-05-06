@@ -1,4 +1,5 @@
 # Directory2instagram
+<img src="https://nethunt.com/blog/content/images/2021/03/giphy1.gif" alt="GIF" width="300">
 
 ## Overview
 This Python script allows you to upload images from a local directory to your Instagram account using the `instagrapi` library. It automates the process of posting images to Instagram, saving you time and effort.
